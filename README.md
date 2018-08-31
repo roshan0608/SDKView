@@ -1,2 +1,0 @@
-# SDKView
-SampleSDK
